@@ -11,7 +11,7 @@
 	<include subset="colorset" name="Default BG" displayName="${defaultbg}">./colorsets/default.xml</include>
 	<include subset="colorset" name="Dark BG" displayName="${darkbg}">./colorsets/dark.xml</include>
 		
-	<include subset="iconset" name="Default" displayName="${default}">./iconsets/arcade.xmlsnes.xml</include>
+	<include subset="iconset" name="Default" displayName="${default}">./iconsets/arcade.xml</include>
 	<include subset="iconset" name="ARCADE" displayName="${arcade}">./iconsets/snes.xml</include>
 	
 	<include subset="systemview" name="Horizontal Menu" displayName="${horizontal}">./systemview/1.xml</include>
