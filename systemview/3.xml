@@ -3,7 +3,7 @@
   <feature supported="carousel">
   <view name="system">
     <carousel name="systemcarousel">
-      <type>vertical</type>
+      <type>horizontal</type>
       <pos>0.15 -0.080</pos>
       <size>1 1</size>
       <color>ffffff00</color>
@@ -30,7 +30,7 @@
 		 <zIndex>42</zIndex>
    </image> 
 
-   
+  
    <helpsystem name="help">
          <fontPath>./../_inc/fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.019</fontSize>     
