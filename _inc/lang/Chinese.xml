@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+		
+		<langue>zh_CN</langue>
+		
+    <tilesViewName>模块</tilesViewName>
+    <tilesVideoViewName>模块 + 视频</tilesVideoViewName>
+    <tilesVideoMarqueeViewName>模块 + 视频 + Logos</tilesVideoMarqueeViewName>
+    <basicGridName>网格</basicGridName>
+    <basicGridDetailsName>网格 + 详细信息</basicGridDetailsName>
+    <basicGridVideoName>网格 + 视频</basicGridVideoName>
+    <carouselViewName>旋转木马</carouselViewName>
+    <carouselDefaultViewName>简约的旋转木马</carouselDefaultViewName>
+    <carouselDetailsViewName>旋转木马详细信息</carouselDetailsViewName>
+    <carouselposterViewName>旋转木马海报</carouselposterViewName>	
+    <fanartViewName>同人 (默认)</fanartViewName>
+	<fanartvlViewName>同人 (全屏视频)</fanartvlViewName>
+	<yes>是</yes>
+	<no>否</no>
+    <none>无</none>
+    <sysmusic>开启</sysmusic>
+    <nomusic>随机</nomusic>
+    <silence>没有背景音乐</silence>	
+	<default>默认</default>
+	<defaultbg>默认背景图</defaultbg>
+	<darkbg>深色背景图像</darkbg>
+	<arcade>游乐中心</arcade>
+	<horizontal>水平菜单</horizontal>
+	<verticalc>垂直转盘</verticalc>
+	<verticalm>垂直菜单</verticalm>	
+	<icondef>标准图标</icondef>
+    <subset.systemview>系统选项</subset.systemview>
+    <subset.colorset>背景图</subset.colorset>
+    <subset.iconset>菜单图标</subset.iconset>
+    <subset.shader>主题着色器</subset.shader>
+	<subset.music>系统音乐</subset.music>
+	</variables>
+	
+</theme>
