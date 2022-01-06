@@ -20,7 +20,7 @@
 			<glowColor>00000016</glowColor>
 			<glowSize>2</glowSize>
 			<glowOffset>2</glowOffset>
-			<fontPath>./_inc/fonts/Homizio.ttf</fontPath>
+			<fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
 		</text>
 		
 		<image name="progressbar" extra="true">
