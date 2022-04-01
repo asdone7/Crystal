@@ -3,9 +3,12 @@
 
 
 <view name="system, basic, detailed, grid">
-      <image name="art" extra="true">
-	     <path>./../assets/arts/default.jpg</path>
-         <path>./../assets/arts/${system.theme}.jpg</path>
-      </image>   
+      <video name="staticBackgroundVideo">
+	     <pos>0.5 0.481</pos>
+           <origin>0.5 0.5</origin>
+           <size>1 1.035</size>
+           <zIndex>1</zIndex>
+           <path>./../assets/arts/system_emuelec_menu.mp4</path>
+      </video>   
 </view>
 </theme>
